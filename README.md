@@ -29,5 +29,7 @@ Feautures & Functionality:
 •Allows loading more songs/scrolling, search filters, and refreshing of 	RythymVerse following perfectly along
 
 🟢 Green: Highlights tracks you already own in your library
+
 🟡 Yellow: Highlights tracks currently downloading or extracting
+
 🔴 Red: Labels tracks you do not currently have (visible in the Terminal window only)
