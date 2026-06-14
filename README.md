@@ -1,9 +1,3 @@
-<img width="3840" height="2160" alt="Screenshot (370)" src="https://github.com/user-attachments/assets/24c0d8d8-62eb-49a1-a2bc-e37a681f5d5d" />
-<img width="3840" height="2160" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/78ab5d41-fda1-4f44-8014-6fca03498428" />
-<img width="3840" height="2160" alt="Screenshot (368)" src="https://github.com/user-attachments/assets/5e2d224b-37a9-45f5-9c13-99f6bc5d1e6e" />
-<img width="3840" height="2160" alt="Screenshot (367)" src="https://github.com/user-attachments/assets/dd0abba8-54ef-4362-9e46-9ba7cc5ff73e" />
-<img width="3840" height="2160" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/d8d84d0b-e953-4b7d-aac6-f7b8c64b6453" />
-
 **Clone Hero x RythymVerse Song Matcher**
 
 Clone Hero x RythymVerse Song Matcher for labeling, displaying, and syncing songs to ensure duplicates aren't downloaded unless intended with a nice/simple UI
@@ -55,3 +49,9 @@ You can run Clone Hero x RythymVerse Song Matcher.exe either before or after loa
 🟡 **Yellow:** *Highlights tracks currently downloading or extracting*
 
 🔴 **Red:** *Labels tracks you do not currently have (visible in the Terminal window only)*
+
+<img width="3840" height="2160" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/d8d84d0b-e953-4b7d-aac6-f7b8c64b6453" />
+<img width="3840" height="2160" alt="Screenshot (367)" src="https://github.com/user-attachments/assets/dd0abba8-54ef-4362-9e46-9ba7cc5ff73e" />
+<img width="3840" height="2160" alt="Screenshot (368)" src="https://github.com/user-attachments/assets/5e2d224b-37a9-45f5-9c13-99f6bc5d1e6e" />
+<img width="3840" height="2160" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/78ab5d41-fda1-4f44-8014-6fca03498428" />
+<img width="3840" height="2160" alt="Screenshot (370)" src="https://github.com/user-attachments/assets/24c0d8d8-62eb-49a1-a2bc-e37a681f5d5d" />
