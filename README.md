@@ -13,10 +13,10 @@ Because this background service uses PyInstaller to package the local Python env
 3. Click on details and make sure you enable Allow User Scripts
 
 4. OPTION A (Recommended):
-Go to "https://greasyfork.org/en/scripts/582682-rhythmverse-clone-hero-ownership-checker" and click on Install this script. 
+Go to https://greasyfork.org/en/scripts/582682-rhythmverse-clone-hero-ownership-checker and click on Install this script. 
 
-OPTION B (Manual Install):
-Open Tampermonkey.txt and copy everything inside, then click on the Tampermonkey extension in your browser(s) and click Create a new script. Paste everything inside and save
+  OPTION B (Manual Install):
+  Open Tampermonkey.txt and copy everything inside, then click on the Tampermonkey extension in your browser(s) and click Create a new script. Paste everything inside and save
 
 5. All done! You may run Clone Hero x RythymVerse Song Matcher.exe without needing to do any of the above steps again
 
