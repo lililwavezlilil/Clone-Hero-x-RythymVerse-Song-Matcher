@@ -12,7 +12,7 @@ Because this background service uses PyInstaller to package the local Python env
 
 3. Click on details and make sure you enable Allow User Scripts
 
-4. Add my custom Tampermonkey script
+4. Add my custom Tampermonkey script:
 
 • OPTION A (Recommended):
 Go to https://greasyfork.org/en/scripts/582682-rhythmverse-clone-hero-ownership-checker and click on Install this script. 
