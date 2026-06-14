@@ -1,4 +1,4 @@
-**Clone Hero x RythymVerse Song Matcher**
+**Clone Hero x RhythymVerse Song Matcher**
 
 Clone Hero x RythymVerse Song Matcher for labeling, displaying, and syncing songs to ensure duplicates aren't downloaded unless intended with a nice/simple UI
 
@@ -28,7 +28,7 @@ If editing via Notepad: **YOU MUST** use forward slashes (/) or double backslash
 
 *(Example: C:/Games/Clone Hero/Songs or C:\\\Games\\Clone Hero\\\Songs)*
 
-You can run Clone Hero x RythymVerse Song Matcher.exe either before or after loading the RhythmVerse webpage—it will sync either way! :D
+You can run Clone Hero x RhythymVerse Song Matcher.exe either before or after loading the RhythmVerse webpage—it will sync either way! :D
 
 **Features & Functionality:**
 
