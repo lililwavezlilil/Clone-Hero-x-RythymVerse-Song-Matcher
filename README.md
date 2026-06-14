@@ -1,7 +1,7 @@
-# Clone-Hero-x-RythymVerse-Song-Matcher
-Clone Hero x RythymVerse Song Matcher for labeling, displaying, and syncing songs to ensure duplicates aren't downloaded unless intended with a nice/simple UI
+**Clone Hero x RythymVerse Song Matcher**
+*Clone Hero x RythymVerse Song Matcher for labeling, displaying, and syncing songs to ensure duplicates aren't downloaded unless intended with a nice/simple UI*
 
-⚠️ Security Notice: Antivirus False Positives
+**⚠️ Security Notice:** Antivirus False Positives
 Because this background service uses PyInstaller to package the local Python environment into a single executable, strict antivirus programs (such as Windows Defender) may occasionally flag it as a generic threat. This is a common false positive associated with compiled Python scripts.
 
 **Instructions:**
@@ -14,10 +14,10 @@ Because this background service uses PyInstaller to package the local Python env
 
 4. Add my custom Tampermonkey script:
 
-• *OPTION A (Recommended):*
+**• OPTION A (Recommended):**
 Go to https://greasyfork.org/en/scripts/582682-rhythmverse-clone-hero-ownership-checker and click on Install this script. 
 
-• *OPTION B (Manual Install):*
+**• OPTION B (Manual Install):**
 Open Tampermonkey.txt and copy everything inside, then click on the Tampermonkey extension in your browser(s) and click Create a new script. Paste everything inside and save
 
 6. All done! You may run Clone Hero x RythymVerse Song Matcher.exe without needing to do any of the above steps again
