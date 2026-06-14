@@ -30,19 +30,19 @@ If editing via Notepad: **YOU MUST** use forward slashes (/) or double backslash
 
 You can run Clone Hero x RythymVerse Song Matcher.exe either before or after loading the RhythmVerse webpage—it will sync either way :D
 
-**Feautures & Functionality:**
+**Features & Functionality:**
 
-*• Labels and highlights tracks that you already have/own in green*
+• Labels and highlights tracks that you already have/own in green
 
-*• Labels tracks that you do not have in red (Terminal window only)*
+• Labels tracks that you do not have in red (Terminal window only)
 
-*• Labels and highlights tracks that you download/are extracting in yellow*
+• Labels and highlights tracks that you download/are extracting in yellow
 
-*• Updates tracks that you downloaded and extracted to your Clone Hero 	songs folder as added to library/owned highlighted in green*
+• Updates tracks that you downloaded and extracted to your Clone Hero 	songs folder as added to library/owned highlighted in green
 
-*• Lists all songs in a 1:1 mirror image to the current RythymVerse page*
+• Lists all songs in a 1:1 mirror image to the current RythymVerse page
 
-*• Allows loading more songs/scrolling, search filters, and refreshing of RythymVerse following perfectly along*
+• Allows loading more songs/scrolling, search filters, and refreshing of RythymVerse following perfectly along
 
 🟢 **Green:** *Highlights tracks you already own in your library*
 
