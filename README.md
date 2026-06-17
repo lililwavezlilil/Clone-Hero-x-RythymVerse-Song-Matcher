@@ -57,4 +57,14 @@ https://github.com/lililwavezlilil
 
 🔴 **Red:** *Labels tracks you do not currently have (visible in the Terminal window only)*
 
+<img width="3840" height="2160" alt="Screenshot (454)" src="https://github.com/user-attachments/assets/5cfea5ba-89fb-4008-b3b6-fa8a8d2eb179" />
+<img width="3840" height="2160" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/ab9948fd-9107-4f02-8bb0-459296c51167" />
+<img width="3840" height="2160" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/16cc61a6-7b37-409f-9843-8fb225e77bb9" />
+<img width="3840" height="2160" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/5568e5d5-443b-47c1-969e-05c51a27b89d" />
+<img width="3840" height="2160" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/b271c717-80e9-4920-8232-704887da1855" />
+<img width="3840" height="2160" alt="Screenshot (459)" src="https://github.com/user-attachments/assets/2265de6e-106c-428e-9f70-068ab193d409" />
+<img width="3840" height="2160" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/4ad3a7ae-d4c2-4620-b053-b16434041157" />
+<img width="3840" height="2160" alt="Screenshot (461)" src="https://github.com/user-attachments/assets/abfb01e6-4c62-4aa8-a7bf-434588664e5b" />
+<img width="3840" height="2160" alt="Screenshot (463)" src="https://github.com/user-attachments/assets/eb97c378-dd64-4481-9e60-8ea39e67f99b" />
+<img width="3840" height="2160" alt="Screenshot (464)" src="https://github.com/user-attachments/assets/aa9c9e46-448b-4952-9e08-554db8e6b8f2" />
 <div align="center"><picture><img width="256" height="256" alt="Clone Hero Universal Song Matcher Icon 2" src="https://github.com/user-attachments/assets/08653715-c22a-4182-93b2-39dafe918865" /><picture><div>
