@@ -1,4 +1,4 @@
-<picture><img width="32" height="32" alt="Clone Hero Universal Song Matcher Icon 2" src="https://github.com/user-attachments/assets/08653715-c22a-4182-93b2-39dafe918865" /><picture>**Clone Hero Universal Song Matcher**<picture><img width="32" height="32" alt="Clone Hero Universal Song Matcher Icon 2" src="https://github.com/user-attachments/assets/08653715-c22a-4182-93b2-39dafe918865" /><picture>
+<picture><img width="32" height="32" alt="Clone Hero Universal Song Matcher Icon 2" src="https://github.com/user-attachments/assets/08653715-c22a-4182-93b2-39dafe918865" /><picture>###**Clone Hero Universal Song Matcher**<picture><img width="32" height="32" alt="Clone Hero Universal Song Matcher Icon 2" src="https://github.com/user-attachments/assets/08653715-c22a-4182-93b2-39dafe918865" /><picture>
 
 Clone Hero Universal Song Matcher is for labeling, displaying, and syncing songs between your Clone Hero songs folder/directory from: RhythmVerse, CHORUS ENCORE, and CUSTOM SONGS CENTRAL to ensure duplicates aren't downloaded unless intended with a nice/simple UI
 
